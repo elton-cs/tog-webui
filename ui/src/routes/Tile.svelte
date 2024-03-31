@@ -1,0 +1,1 @@
+<img src="./src/lib/assets/assets_square.svg" alt="No IMG">
