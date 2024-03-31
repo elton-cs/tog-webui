@@ -1,1 +1,1 @@
-<img src="./src/lib/assets/assets_square.svg" alt="No IMG">
+<img class="m-1" src="./src/lib/assets/assets_square.svg" alt="No IMG">
